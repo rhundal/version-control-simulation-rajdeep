@@ -15,7 +15,6 @@
    9. Push changes to main
    10. create branch review/main
        1. add README.md
-       2. Peer Review was very positive and encouraging :)
 
 ## How you handled the merge conflict.
 
@@ -24,4 +23,4 @@
 
 ## How the pull request process helped you ensure code quality and collaboration.
 
-To Be Completed
+1. Peer Review was very positive and encouraging :)
